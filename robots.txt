@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://api.masumberpayung.my.id/sitemap.xml
+Sitemap: https://apkabsensi.masumberpayung.my.id/sitemap.xml
